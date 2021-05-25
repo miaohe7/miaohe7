@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @miaohe7, <b>SAP ABAPer</>
-- 👀 I’m interested in <b>Web and APP development</>
-- 🌱 I’m currently learning SAP ABAP, Flutter
-- 💞️ I’m looking to collaborate on Flutter project
-- 📫 How to reach me : <a href = "mailto:miaohe7@gmail.com"></a>
+- 👋 Hi, I’m @miaohe7, <b>SAP ABAPer </b>
+- 👀 I’m interested in <b>Web and APP development</b>
+- 🌱 I’m currently learning <b>SAP ABAP, Flutter</b>
+- 💞️ I’m looking to collaborate on <b>Flutter project</b>
+- 📫 How to reach me : <a>miaohe7@gmail.com</a>
 
 <!---
 miaohe7/miaohe7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
